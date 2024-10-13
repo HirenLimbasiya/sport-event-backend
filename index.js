@@ -70,4 +70,4 @@ function verifyToken(req, resp, next) {
     }
 }
 
-app.listen(PORT, () => console.log("running 5000..."))
+app.listen(PORT, () => console.log("running....."))
